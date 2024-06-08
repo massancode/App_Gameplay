@@ -18,7 +18,7 @@ export function SignIn() {
       Jogatinas {'\n'}
       Facilmente {'\n'}
      </Text>
-     <ButtonIcon/>
+     <ButtonIcon title='Entrar com dsicord' />
      <Text style={styles.subtitle}>
          Crie um grupos para jogar seus games {'\n'}
          favoritos com seus amigos
