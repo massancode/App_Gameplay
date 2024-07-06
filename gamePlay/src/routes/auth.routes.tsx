@@ -10,10 +10,7 @@ const {Navigator,Screen}= createStackNavigator();
 
 export function AuthRoutes (){
     return(
-        <Navigator screenOptions={{
-           headerShown:false,
-           presentation:'modal'
-        }}
+        <Navigator 
             >
             <Screen 
            name="Signin"
